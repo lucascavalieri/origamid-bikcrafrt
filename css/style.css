@@ -1,3 +1,13 @@
 @import "./global.css";
-@import "./header.css";
+
+/* Utilidades */
+@import "./utilitarios/cores.css";
+@import "./utilitarios/tipografia.css";
+
+/* Home */
+@import "./home/header.css";
+@import "./home/main.css";
+@import "./home/bicicletas.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
 
