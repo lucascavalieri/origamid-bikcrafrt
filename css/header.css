@@ -1,0 +1,18 @@
+.header {
+    background: var(--background-color);
+}
+
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-ul {
+    display: flex;
+    gap: 60px;
+    padding: 20px 10px;
+    list-style: none;
+}
